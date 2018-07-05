@@ -23,4 +23,4 @@
  */
 //we should never actually see this. its just for reference
 $string['paypal_displayname'] = 'Paypal';
-$string['paypal_menutitle'] = 'Egenpåmelding via Paypal';
+$string['paypal_menutitle'] = 'Egenpåmelding med Paypal';
